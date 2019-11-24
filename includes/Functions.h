@@ -15,7 +15,6 @@
 #include <thread>
 #include "Smalltalk.h"
 
-
 //create a vector with appropriate numbers of Smalltalk_Brit,Smalltalk_American and ST_American_DonutEnthusiest
 //objects using unique pointers.  Watches are given sequentially starting with first person in the vector until 
 //all watches given or everyone has a watch (case where more watches than people)
